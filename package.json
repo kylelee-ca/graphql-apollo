@@ -1,0 +1,23 @@
+{
+  "name": "graphql-apollo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylelee-ca/graphql-apollo.git"
+  },
+  "author": "Kyle Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylelee-ca/graphql-apollo/issues"
+  },
+  "homepage": "https://github.com/kylelee-ca/graphql-apollo#readme",
+  "dependencies": {
+    "convert-csv-to-json": "^1.3.3"
+  }
+}
